@@ -1,0 +1,59 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Ribeye Marrow', cursive;
+  
+
+}
+.first{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+.cloud{
+  position: relative;
+  left:200px;
+
+}
+h1{
+/*  position: relative;
+  left: 200px;*/
+  font-size: 90px;
+  margin-top: 0px;
+  font-family: 'Sacramento', cursive;
+
+}
+h2{
+  font-family: 'Barlow Condensed', sans-serif;
+  font-family: 'Girassol', cursive;
+}
+.prog{
+  font-size: 25px;
+}
+p{
+  /*position: relative;
+  left: 200px;*/
+
+  font-family: 'Barlow Condensed', sans-serif;
+}
+.cloud2{
+  position:absolute;
+
+}
+.middle-container{
+  background-color: #E4F9F5;
+}
+.bird{
+  position:absolute;
+  top: 100px;
+
+}
+.bottom-container{
+  background-color: #E4F9F5;
+  margin-bottom: 0px;
+}
+.profile{
+
+  padding-top: 20px;
+}
